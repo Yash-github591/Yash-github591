@@ -6,7 +6,9 @@ I am a versatile developer who loves exploring new technologies, spanning both f
 - 🔭 I’m currently working on full-stack web projects and deep-diving into Low-Level Design (LLD).
 - 🌱 I’m actively implementing advanced structural and creational design patterns in C++.
 - ⚡ Fun fact: I love automating my development workflows to keep things efficient.
-- 📫 Reach me at: [Add your email or LinkedIn link here]
+- 📫 Reach me at:
+    linkedin: [https://www.linkedin.com/in/yash-garg-420382193/]
+    Mail: [yashgargjsr1999@gmail.com]
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -16,10 +18,6 @@ I am a versatile developer who loves exploring new technologies, spanning both f
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
-
-### 📂 Featured Work
-* **[Insert Project Name]:** A complex C++ implementation of a shopping cart system utilizing the Composite design pattern.
-* **[Insert Web Project Name]:** [Brief 1-sentence description of what it does and the tech used].
 
 ### 📊 GitHub Stats
 
