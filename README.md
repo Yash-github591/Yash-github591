@@ -8,8 +8,7 @@ I am a versatile developer who loves exploring new technologies, spanning both f
 - ⚡ Fun fact: I love automating my development workflows to keep things efficient.
 - 📫 Reach me at:
     linkedin: [https://www.linkedin.com/in/yash-garg-420382193/]
-    Mail: [yashgargjsr1999@gmail.com]
-
+  
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
